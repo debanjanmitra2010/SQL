@@ -9,4 +9,6 @@ In DML, Please refer to this table :-
 
 ![](Images/DML_Tables.JPG)
 
+In Data Relation, Please refer to this table :-
 
+![](Images/Data_Relation_Tables.JPG)
