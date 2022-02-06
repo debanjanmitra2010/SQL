@@ -12,3 +12,8 @@ In DML, Please refer to this table :-
 In Data Relation, Please refer to this table :-
 
 ![](Images/Data_Relation_Tables.JPG)
+
+Example Table:- 
+
+![](Images/Data_Relation_Tables_Example.JPG)
+
