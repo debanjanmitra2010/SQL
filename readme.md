@@ -9,7 +9,7 @@ In DML, Please refer to this table :-
 
 ![](Images/DML_Tables.JPG)
 
-In Data Relation, Please refer to this table :-
+In Data Relation and Primary & Foreign Key Folders, Please refer to this table :-
 
 ![](Images/Data_Relation_Tables.JPG)
 
@@ -17,3 +17,11 @@ Example Table:-
 
 ![](Images/Data_Relation_Tables_Example.JPG)
 
+
+In Group&Aggregate, Please refer to this table :-
+
+![](Images/Group&Aggregate.JPG)
+
+In InBuild Query, Please refer to this table :-
+
+![](Images/InBuild_Query.JPG)
